@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rinshad
+- 👋 Hi, I’m @Alpha
 - 👀 I’m interested in Ethical Hacking
 - 🌱 I’m currently learning Web Pentesting
 - 💞️ I’m looking to collaborate on Google
